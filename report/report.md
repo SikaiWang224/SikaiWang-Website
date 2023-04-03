@@ -1,3 +1,8 @@
+---
+layout: wide_default
+---
+
+
 ```python
 
 from scipy.stats import pearsonr
