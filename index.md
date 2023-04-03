@@ -11,7 +11,7 @@
 _**[Natural language processing 10-Ks to identify sentiment](/report/report.md)**_
 This report loaded all 10-Ks for S&P 500 firms and used 10 different sentiment file to analyze their sentiment score
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="report/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
@@ -19,7 +19,7 @@ _**[Regression Practice](Regression_practice)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/output_29_0.png?raw=true"/>
 
 ---
 
