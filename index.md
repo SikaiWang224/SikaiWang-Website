@@ -8,9 +8,8 @@
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
-
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+_**[Natural language processing 10-Ks to identify sentiment](/report/report.md)**_
+This report loaded all 10-Ks for S&P 500 firms and used 10 different sentiment file to analyze their sentiment score
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
