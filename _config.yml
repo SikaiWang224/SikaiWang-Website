@@ -1,10 +1,10 @@
 title: Sikai Wang # your name (or website title) here
-logo: "/images/picture.png?raw=true" # your photo (or logo) here
+logo: "/images/.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  
   <a href="https://www.linkedin.com/in/sikai-wang-755b88205/">LinkedIn</a> 
   <br>
-  <a href="/pdf/Resume .docx (2).pdf" class="btn btn--info">Resume</a>  
+  <a href="/pdf/ResumeSikaiWang.pdf" class="btn btn--info">Resume</a>  
   <br>
   <a href="https://github.com/SikaiWang224">GitHub</a>  
   <br>
