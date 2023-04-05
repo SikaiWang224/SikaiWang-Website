@@ -1,5 +1,5 @@
 ## About Me
-**Hi! I am a student in Lehigh University majored in Finance and Business Analytics.**
+**Hi! I am a student in Lehigh University majoring in Finance and Business Analytics.**
 
 
 ---
@@ -9,6 +9,7 @@
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
 _**[Natural language processing 10-Ks to identify sentiment](/report/report.md)**_
+
 This report loaded all 10-Ks for S&P 500 firms and used 10 different sentiment file to analyze their sentiment score
 
 <img src="report/output_29_0.png?raw=true"/>
