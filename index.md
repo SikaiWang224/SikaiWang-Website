@@ -1,5 +1,5 @@
 ## About Me
-**Hi! I am a student in Lehigh University majoring in Finance and Business Analytics.**
+**Hi! I am a student in Lehigh University majoring in Finance and Business Analytics. I've always been fascinated by the world of finance and the role it plays in shaping our economy, which leads me to join IMG and participate in the Analyst Development Program.**
 
 
 ---
@@ -10,21 +10,21 @@
 
 _**[Natural language processing 10-Ks to identify sentiment](/report/report.md)**_
 
-This report loaded all 10-Ks for S&P 500 firms and used 10 different sentiment file to analyze their sentiment score
+This report loaded all 10-Ks for S&P 500 firms and used 10 different sentiment file to analyze their sentiment score.
 
 <img src="report/output_29_0.png?raw=true"/>
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Plotting Practice](/asgn03exercises/asgn03exercises.md)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+This practices includes several common plotting functions, including ```lineplot, boxplot, displot, and scartterplot```.
 
-<img src="images/output_29_0.png?raw=true"/>
+<img src="/asgn03exercises/output_29_0.png?raw=true"/>
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Team Project](https://github.com/SikaiWang224/teamproject-)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
