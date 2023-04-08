@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---
+
 # Plotting mechanics and EDA
 
 **Run the code below, and read along.**
