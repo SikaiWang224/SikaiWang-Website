@@ -15,6 +15,13 @@ This report loaded all 10-Ks for S&P 500 firms and used 10 different sentiment f
 <img src="report/output_29_0.png?raw=true"/>
 
 ---
+_**[Midterm Summary](/midterm_summary.md)**_
+
+For previous part, there is a summary section for that. 
+
+<img src="/asgn03exercises/output_29_0.png?raw=true"/>
+
+---
 
 _**[Plotting Practice](/asgn03exercises/asgn03exercises.md)**_
 
