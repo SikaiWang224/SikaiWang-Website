@@ -41,7 +41,7 @@ Not yet finished! Let's wait and see!
 
 ## Career Objectives
 
-My **ultimate** goal is to help organizations make data-driven decisions that lead to improved efficiency, increased profitability, and sustained growth in my early career. When I have the capacity to set up a new company on my own, I would definitely do that and do what I am interested in. 
+My **ultimate** goal is to help organizations make data-driven decisions that lead to improved efficiency, increased profitability, and sustained growth in my early career. When I have the capacity to set up a new company on my own, I would definitely do that and work on what I am interested in. 
 
 <img src="images/image2.jpeg?raw=true"/>
 ---
