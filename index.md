@@ -33,21 +33,23 @@ This practices includes several common plotting functions, including ```lineplot
 
 _**[Team Project](https://github.com/SikaiWang224/teamproject-)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Not yet finished! Let's wait and see!
+
+<img src="images/image .webp?raw=true"/>
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+My **ultimate** goal is to help organizations make data-driven decisions that lead to improved efficiency, increased profitability, and sustained growth in my early career. When I have the capacity to set up a new company on my own, I would definitely do that and do what I am interested in. 
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+- Basketball
+- Golf 
+- Video Gaming
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
