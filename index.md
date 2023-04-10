@@ -19,7 +19,7 @@ _**[Midterm Summary](/midterm_summary.md)**_
 
 For previous part, there is a summary section for that. 
 
-<img src="/asgn03exercises/output_29_0.png?raw=true"/>
+<img src="/report/output1?raw=true"/>
 
 ---
 
@@ -32,12 +32,6 @@ This practices includes several common plotting functions, including ```lineplot
 ---
 
 _**[Team Project](https://github.com/SikaiWang224/teamproject-)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
