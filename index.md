@@ -39,6 +39,12 @@ Not yet finished! Let's wait and see!
 
 ---
 
+_**[Other Project I am working on (R class)](https://drive.google.com/drive/folders/1m_YD42H-DwoyxSIVIz3mjoBzt7gqaaq5)**_
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
 ## Career Objectives
 
 My **ultimate** goal is to help organizations make data-driven decisions that lead to improved efficiency, increased profitability, and sustained growth in my early career. When I have the capacity to set up a new company on my own, I would definitely do that and work on what I am interested in. 
