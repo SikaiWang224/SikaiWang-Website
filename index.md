@@ -19,7 +19,7 @@ _**[Midterm Summary](/midterm_summary.md)**_
 
 For previous part, there is a summary section for that. 
 
-<img src="/report/output1?raw=true"/>
+<img src="/report/output1.png?raw=true"/>
 
 ---
 
