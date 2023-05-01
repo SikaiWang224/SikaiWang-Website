@@ -35,7 +35,7 @@ _**[Team Project](https://github.com/SikaiWang224/teamproject-)**_
 
 Sentiment Analysis of Federal Reserve Announcements and its Impact on the S&P 500 and Sector ETFs
 
-<img src="images/teamproject.jpeg?raw=true"/>
+<img src="images/team project 1 .png?raw=true"/>
 
 ---
 
