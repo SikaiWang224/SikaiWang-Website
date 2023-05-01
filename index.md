@@ -33,15 +33,15 @@ This practices includes several common plotting functions, including ```lineplot
 
 _**[Team Project](https://github.com/SikaiWang224/teamproject-)**_
 
-Not yet finished! Let's wait and see!
+Sentiment Analysis of Federal Reserve Announcements and its Impact on the S&P 500 and Sector ETFs
 
-<img src="images/image .webp?raw=true"/>
+<img src="images/teamproject.jpeg?raw=true"/>
 
 ---
 
 _**[Other Project I am working on (R class)](https://drive.google.com/drive/folders/1m_YD42H-DwoyxSIVIz3mjoBzt7gqaaq5)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/r project.png?raw=true"/>
 
 ---
 
